@@ -1,2 +1,2 @@
-# fundamentos-cotil
-Um repositório para os arquivos da disciplina de Fundamentos
+# Fundamentos de Informática 
+Este repositório contém os exercícios e anotações da disciplina.
