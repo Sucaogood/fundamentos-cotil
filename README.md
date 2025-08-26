@@ -9,3 +9,15 @@ Meu nome é **Isaias Krepisck Costa** sou um cara apaixonado por tecnologia e go
 - Quase proplayer em Fortnite  
 - Ex top 200 eFootball  
 - Sou bom em tênis de mesa
+
+## Meu Primeiro Programa
+
+Aqui está um exemplo do clássico "Olá, Mundo!" em C, usando a função `printf()`:
+
+```c
+#include <stdio.h>
+
+int main() {
+    printf("Olá, Mundo!\n");
+    return 0;
+}
