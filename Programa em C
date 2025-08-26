@@ -1,1 +1,10 @@
+## Meu Primeiro Programa em C
+
+```c
+#include <stdio.h>
+
+int main() {
+    printf("Olá, Mundo!\n");
+    return 0;
+}
 
