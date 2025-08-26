@@ -5,7 +5,7 @@ Este repositório contém os exercícios e anotações da disciplina.
 Meu nome é **Isaias Krepisck Costa** sou um cara apaixonado por tecnologia e gosto muito de Desenvolver jogos.
 
 ### Habilidades
-- ex proplayer [Rocket League](file:///C:/Users/ddese/Downloads/site/sobreisaias.html)
+- ex proplayer [Rocket League](sobreisaias.html)
 - Quase proplayer em Fortnite  
 - Ex top 200 eFootball  
 - Sou bom em tênis de mesa
