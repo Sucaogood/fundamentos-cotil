@@ -10,7 +10,7 @@ Meu nome é **Isaias Krepisck Costa** sou um cara apaixonado por tecnologia e go
 - Ex top 200 eFootball  
 - Sou bom em tênis de mesa
 
-## Meu Primeiro Programa
+## Meu Primeiro Programa em C
 
 ```c
 #include <stdio.h>
