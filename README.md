@@ -12,6 +12,8 @@ Meu nome é **Isaias Krepisck Costa** sou um cara apaixonado por tecnologia e go
 
 ## Meu Primeiro Programa em C
 
+Este é o clássico código Olá, Mundo, que utiliza a função `printf()
+
 ```c
 #include <stdio.h>
 
